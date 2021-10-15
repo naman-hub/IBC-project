@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/IBC-project/static/css/main.c99686d6.chunk.css",
+    "main.js": "/IBC-project/static/js/main.1291e720.chunk.js",
+    "main.js.map": "/IBC-project/static/js/main.1291e720.chunk.js.map",
+    "runtime-main.js": "/IBC-project/static/js/runtime-main.03821b9d.js",
+    "runtime-main.js.map": "/IBC-project/static/js/runtime-main.03821b9d.js.map",
+    "static/js/2.6e483cb0.chunk.js": "/IBC-project/static/js/2.6e483cb0.chunk.js",
+    "static/js/2.6e483cb0.chunk.js.map": "/IBC-project/static/js/2.6e483cb0.chunk.js.map",
+    "static/js/3.05fa05ea.chunk.js": "/IBC-project/static/js/3.05fa05ea.chunk.js",
+    "static/js/3.05fa05ea.chunk.js.map": "/IBC-project/static/js/3.05fa05ea.chunk.js.map",
+    "index.html": "/IBC-project/index.html",
+    "static/css/main.c99686d6.chunk.css.map": "/IBC-project/static/css/main.c99686d6.chunk.css.map",
+    "static/js/2.6e483cb0.chunk.js.LICENSE.txt": "/IBC-project/static/js/2.6e483cb0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03821b9d.js",
+    "static/js/2.6e483cb0.chunk.js",
+    "static/css/main.c99686d6.chunk.css",
+    "static/js/main.1291e720.chunk.js"
+  ]
+}
