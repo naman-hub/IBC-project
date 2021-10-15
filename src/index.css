@@ -17,7 +17,7 @@ input, button {
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #53565A;
+  background-color: #ccedf7;
 }
 
 form{
@@ -34,7 +34,7 @@ form:after{
   right: -5px;
   bottom: -5px;
   z-index: 1;
-  background-image: linear-gradient(to bottom right, #FFCE00, #FE4880 );
+  background-image: linear-gradient(to bottom right, #1900ff, #5b6196 );
 }
 
 form .form-inner{
@@ -68,7 +68,7 @@ form .form-inner .form-group {
 }
 
 .form-inner .form-group:focus-within label{
-  color: #FE4880
+  color: #4643f8
 }
 
 form .form-inner .form-group input{
@@ -88,7 +88,7 @@ form .form-inner input[type = "submit"], .welcome button{
   display: inline-block;
   padding:10px 15px;
   border-radius: 8px;
-  background-image: linear-gradient(to right, #FFCE00 50%, #ffce00 50%, #fe4880 );
+  background-image: linear-gradient(to right, #1900ff 50%, #1900ff 50%, #6c64b9 );
   background-size: 200%;
   background-position: 0%;
   transition: 0.4s;
@@ -117,6 +117,6 @@ form .form-inner input[type = "submit"]:hover, .welcome button:hover{
 }
 
 .welcome h2 span{
-  color: #fe4800;
+  color: #2e73f3;
   font-weight:700;
 }
